@@ -1,11 +1,13 @@
 # Machine Learning
 
-### Notebooks Covered
+### Notebooks Covered Thursday:
 
-[linear_regression.ipynb](linear_regression.ipynb)
+- [linear_regression.ipynb](linear_regression.ipynb) ([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/MachineLearning/linear_regression.ipynb), or [view notebook via nbviewer](https://nbviewer.jupyter.org/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/MachineLearning/linear_regression.ipynb))
+- [hands_on_knn_perceptron.ipynb](hands_on_knn_perceptron.ipynb) ([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/MachineLearning/hands_on_knn_perceptron.ipynb), or [view notebook via nbviewer](https://nbviewer.jupyter.org/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/MachineLearning/hands_on_knn_perceptron.ipynb))
+- [Handwriting_Demo_Student.ipynb](Handwriting_Demo_Student.ipynb) ([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/MachineLearning/Handwriting_Demo_Student.ipynb), or [view notebook via nbviewer](https://nbviewer.jupyter.org/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/MachineLearning/Handwriting_Demo_Student.ipynb))
+- [tf2_arbitrary_image_stylization.ipynb](tf2_arbitrary_image_stylization.ipynb) ([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/MachineLearning/tf2_arbitrary_image_stylization.ipynb), or [view notebook via nbviewer](https://nbviewer.jupyter.org/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/MachineLearning/tf2_arbitrary_image_stylization.ipynb))
 
-[hands_on_knn_perceptron.ipynb](hands_on_knn_perceptron.ipynb)
-
-[Handwriting_Demo_Student.ipynb](Handwriting_Demo_Student.ipynb)
-
-[tf2_arbitrary_image_stylization.ipynb](tf2_arbitrary_image_stylization.ipynb)
+### Not yet covered (perhaps on Firday)
+- [word_embeddings.ipynb](word_embeddings.ipynb) ([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/MachineLearning/word_embeddings.ipynb), or [view notebook via nbviewer](https://nbviewer.jupyter.org/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/MachineLearning/word_embeddings.ipynb)) which goes into detail (on word2vec, FastText, etc)
+- [word_embeddings_simpleAnalogiesWithFastText.ipynb](word_embeddings_simpleAnalogiesWithFastText.ipynb) ([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/MachineLearning/word_embeddings_simpleAnalogiesWithFastText.ipynb), or [view notebook via nbviewer](https://nbviewer.jupyter.org/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/MachineLearning/word_embeddings_simpleAnalogiesWithFastText.ipynb))
+  - [02_Logistic_Regression_and_Text_Models.ipynb](../../notebooks/nlp/02_Logistic_Regression_and_Text_Models.ipynb) has more information on One Hot Encodings and other NLP concepts
